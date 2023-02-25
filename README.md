@@ -3,4 +3,5 @@
  # Note  
  I made them from da source code i do not steal the binaries
  # credits 
- - [yasm](https://yasm.tortall.net)
+ - [yasm](https://yasm.tortall.net) 
+ - [luajit](https://luajit.org)
