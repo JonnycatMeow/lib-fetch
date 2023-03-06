@@ -1,4 +1,4 @@
- # Static-files-MacOS
+ # Static-Libs
  i made it because i am bored 
  # Note  
  I made them from da source code i do not steal the binaries
