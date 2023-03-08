@@ -1,4 +1,4 @@
- # Static-Libs
+ # Unix-Static-Libs
  i made it because i am bored 
  # Note  
  I made them from The source code,i do not steal the binaries.
