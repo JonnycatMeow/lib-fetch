@@ -11,4 +11,5 @@
  # credits 
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
- - [libtool](https://www.gnu.org/software/libtool/)
+ - [libtool](https://www.gnu.org/software/libtool/) 
+ - [opus](https://opus-codec.org)
