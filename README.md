@@ -12,4 +12,5 @@
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
  - [libtool](https://www.gnu.org/software/libtool/) 
- - [opus](https://opus-codec.org)
+ - [opus](https://opus-codec.org) 
+ - [libshout](https://www.icecast.org)
