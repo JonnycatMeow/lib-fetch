@@ -14,3 +14,4 @@
  - [libtool](https://www.gnu.org/software/libtool/) 
  - [opus](https://opus-codec.org) 
  - [libshout](https://www.icecast.org)
+ - [lua](https://www.lua.org)
