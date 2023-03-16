@@ -4,10 +4,12 @@
  I made them from The source code,i do not steal the binaries.
  # Platforms 
  - Mac
- - linux
+ - Linux
+ - Ios
  # Arches 
  - x86_64 M
  - x86_64 L
+ - arm64  I
  # credits 
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
