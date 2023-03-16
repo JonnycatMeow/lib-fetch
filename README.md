@@ -1,5 +1,5 @@
  # Unix-Static-Libs
- i made it because i am bored.M is for mac and L is for linux
+ i made it because i am bored.M is for mac and L is for linux and I is for ios 
  # Note  
  I made them from The source code,i do not steal the binaries.
  # Platforms 
