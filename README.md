@@ -1,13 +1,13 @@
  # Unix-Static-Libs
- i made it because i am bored.M is for mac and L is for linux and I is for ios 
+ I made it because i am bored
  # Platforms 
  - Mac
  - Linux
  - Ios
  # Arches 
- - x86_64 M
- - x86_64 L
- - arm64  I
+ - x86_64 Mac
+ - x86_64 Linux
+ - arm64  Ios
  # Credits 
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
