@@ -4,10 +4,6 @@
  - Mac
  - Linux
  - Ios
- # Arches 
- - x86_64 Mac
- - x86_64 Linux
- - arm64  Ios
  # Credits 
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
