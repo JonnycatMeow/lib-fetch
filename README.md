@@ -11,4 +11,5 @@
  - [opus](https://opus-codec.org) 
  - [libshout](https://www.icecast.org)
  - [lua](https://www.lua.org) 
- - [libb64](https://libb64.sourceforge.net)
+ - [libb64](https://libb64.sourceforge.net) 
+ - [ninja](https://ninja-build.org)
