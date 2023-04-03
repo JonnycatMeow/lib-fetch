@@ -13,4 +13,5 @@
  - [lua](https://www.lua.org) 
  - [libb64](https://libb64.sourceforge.net) 
  - [ninja](https://ninja-build.org) 
- - [libfishsound](https://www.xiph.org/fishsound/)
+ - [libfishsound](https://www.xiph.org/fishsound/) 
+ - [libigloo](https://icecast.org/)
