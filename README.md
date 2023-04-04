@@ -14,4 +14,5 @@
  - [libb64](https://libb64.sourceforge.net) 
  - [ninja](https://ninja-build.org) 
  - [libfishsound](https://www.xiph.org/fishsound/) 
- - [libigloo](https://icecast.org/)
+ - [libigloo](https://icecast.org/) 
+ - [openssl](https://www.openssl.org/)
