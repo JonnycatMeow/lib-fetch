@@ -1,9 +1,9 @@
- # Unix-Static-Libs
- I made it because i am bored
- # Platforms 
+ # MLM-Libs
+ MLM stands for mac,linux and mobile 
+ # Platforms  
  - Mac
  - Linux
- - Ios
+ - Mobile
  # Credits 
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
