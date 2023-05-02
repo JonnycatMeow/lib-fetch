@@ -17,4 +17,5 @@
  - [libigloo](https://icecast.org/) 
  - [openssl](https://www.openssl.org/) 
  - [OpenAL](https://www.openal.org/) 
- - [Wren](https://wren.io)
+ - [Wren](https://wren.io) 
+ - [libVLC](https://www.videolan.org/)
