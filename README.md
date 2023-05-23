@@ -19,3 +19,4 @@
  - [OpenAL](https://www.openal.org/) 
  - [Wren](https://wren.io) 
  - [libVLC](https://www.videolan.org/)
+ - [ffmpeg](https://ffmpeg.org/)
