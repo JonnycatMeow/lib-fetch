@@ -4,6 +4,9 @@
  - Mac
  - Linux
  - Mobile
+
+ # DEPRICTED DYNAMIC LIBS  
+ dynamic libs will be removed and not support 
  # Credits 
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
