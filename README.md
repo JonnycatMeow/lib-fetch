@@ -22,4 +22,5 @@
  - [OpenAL](https://www.openal.org/) 
  - [Wren](https://wren.io) 
  - [libVLC](https://www.videolan.org/)
- - [ffmpeg](https://ffmpeg.org/)
+ - [ffmpeg](https://ffmpeg.org/) 
+ - [mingw-w64](https://www.mingw-w64.org/)
