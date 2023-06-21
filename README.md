@@ -1,4 +1,4 @@
- # MLM-Libs
+ # CrossPlatformLibs
  You can download and use these libs for your project just make sure you credit me for the libs 
  # Platforms  
  - Mac
@@ -6,7 +6,7 @@
  - Mobile
 
  # DEPRICTED DYNAMIC LIBS  
- dynamic libs will be removed and not support 
+ dynamic libs will be not supported 
  # Credits 
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
