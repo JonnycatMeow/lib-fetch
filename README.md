@@ -3,9 +3,6 @@
  # Platforms  
  - Desktop
  - Mobile
-
- # DEPRICTED DYNAMIC LIBS  
- dynamic libs will be not supported 
  # Credits 
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
