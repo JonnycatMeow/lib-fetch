@@ -23,3 +23,4 @@
  - [libVLC](https://www.videolan.org/)
  - [ffmpeg](https://ffmpeg.org/) 
  - [mingw-w64](https://www.mingw-w64.org/)
+ - [WavPack](https://www.wavpack.com/)
