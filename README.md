@@ -1,4 +1,4 @@
- # libfetch
+ # lib-fetch
  You can download and use these libs for your project just make sure you credit me for the libs 
  # Platforms  
  - Desktop
