@@ -23,3 +23,4 @@
  - [WavPack](https://www.wavpack.com/) 
  - [xoreos](https://github.com/xoreos/xoreos)  
  - [wasm-lua](https://github.com/bwrsandman/wasm_lua)     
+ - [nativefiledialog](https://github.com/mlabbe/nativefiledialog)
