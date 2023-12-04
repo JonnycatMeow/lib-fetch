@@ -1,8 +1,5 @@
  # lib-fetch
- You can download and use these libs for your project just make sure you credit me for the libs 
- # Platforms  
- - Desktop
- - Mobile
+ Grab and go the libs
  # Credits 
  - [yasm](https://yasm.tortall.net) 
  - [luajit](https://luajit.org) 
