@@ -24,3 +24,4 @@
  - [xoreos](https://github.com/xoreos/xoreos)  
  - [wasm-lua](https://github.com/bwrsandman/wasm_lua)     
  - [nativefiledialog](https://github.com/mlabbe/nativefiledialog)
+ - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)
